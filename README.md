@@ -18,8 +18,11 @@ Master-Master репликация — это схема, где оба серв
 ![Replication](Images/status_mysql_2.png)
 
 ### 2 Скриншот
-
 На скриншоте статус службы MySQL на сервере Slave. Служба находится в активном состоянии и готова к работе.
 
 ![Replication](Images/status_mysql_1.png)
 
+### 3 Скриншот
+Показано состояние Master-сервера и параметры бинарного лога, используемые для настройки репликации.
+
+![Replication](Images/show_master_status.png)
